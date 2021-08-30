@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Keenan](https://www.keenanjohnson.com/) and I work on this project! Reach out if you are interested or just want to chat.
+I'm [Keenan](https://www.keenanjohnson.com/)! Reach out if I can help you or if you just want to chat.
 
 ### Current Projects
 - I'm building a large network of [open-source, low-cost, CO2 Gas Detection Sensors](https://github.com/keenanjohnson/ghg-gas-cloud). These sensor units will enable many to contribute to the work on climate by contributing to the world's largest greenhouse gas database.
