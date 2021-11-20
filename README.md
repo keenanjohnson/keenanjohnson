@@ -4,7 +4,6 @@ I'm [Keenan](https://www.keenanjohnson.com/)! Reach out if I can help you or if 
 
 ### Current Projects
 - I'm building a large network of [open-source, low-cost, CO2 Gas Detection Sensors](https://github.com/keenanjohnson/ghg-gas-cloud). These sensor units will enable many to contribute to the work on climate by contributing to the world's largest greenhouse gas database.
-- I'm building a new [pre-accelerator](https://www.notion.so/Pre-Accelerator-One-Pager-741b8923d7d745118f4a0d6b01b834d8) that will coach startup founders through the early critical planning and decisions made at the highest leverage time in the business.
 
 ### Past Work Highlights: 
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
