@@ -12,9 +12,9 @@ Welcome! I'm Keenan! Pronouns: he/him/his
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
 - Heavily involved in policy efforts related to Aerospace, Innovation, and Technology
 - Mentors companies involved in climate change and aerospace through Techstars and CleanTech Open
-- Thrived in the high-pressure mission control of SpaceX
-- Built a solar-powered house that teaches about energy usage through a playful, multi-sensory experience.
-- Built an Alexa, voice-controlled, Lego robot that can turn and read the pages of books for the visually impaired.
+- Thrived in the high-pressure mission control of [SpaceX](https://www.keenanjohnson.com/work#spacex)
+- Built a [solar-powered house](https://github.com/keenanjohnson/house-pet) that teaches about energy usage through a playful, multi-sensory experience.
+- [Built an Alexa, voice-controlled, Lego robot](https://github.com/keenanjohnson/Paige-Turner) that can turn and read the pages of books for the visually impaired.
 
 You can see more about my past work [here](https://www.keenanjohnson.com/work).
 
