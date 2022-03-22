@@ -6,7 +6,8 @@ Welcome! I'm Keenan! Pronouns: he/him/his
 * Website: https://www.keenanjohnson.com/
 
 ### Current Projects
-- I'm building [Ribbit Network:](https://github.com/Ribbit-Network) The world's largest crowdsourced network of open-source, Greenhouse Gas Detection Sensors for climate. 
+- I'm building [Ribbit Network:](https://github.com/Ribbit-Network) The world's largest crowdsourced network of open-source, Greenhouse Gas Detection Sensors for climate.
+- I also do consulting for a variety of startups building hard-tech to solve big problems. Reach out if you are interested in hiring me!
 
 ### Past Work Highlights: 
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
