@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Welcome! I'm Keenan! Pronouns: he/him/his
-
-* Twitter: https://twitter.com/KeenanJohnson
-* Website: https://www.keenanjohnson.com/
+Welcome! I'm [Keenan](https://bio.link/klj)! Pronouns: he/him/his
 
 ### Current Projects
 - I'm building [Ribbit Network:](https://github.com/Ribbit-Network) The world's largest crowdsourced network of open-source, Greenhouse Gas Detection Sensors for climate.
@@ -16,8 +13,6 @@ Welcome! I'm Keenan! Pronouns: he/him/his
 - Thrived in the high-pressure mission control of [SpaceX](https://www.keenanjohnson.com/work#spacex)
 - Built a [solar-powered house](https://github.com/keenanjohnson/house-pet) that teaches about energy usage through a playful, multi-sensory experience.
 - [Built an Alexa, voice-controlled, Lego robot](https://github.com/keenanjohnson/Paige-Turner) that can turn and read the pages of books for the visually impaired.
-
-You can see more about my past work [here](https://www.keenanjohnson.com/work).
 
 Please consider supporting me on [Ko-fi](https://ko-fi.com/W7W14VTU8) or [Github](https://github.com/sponsors/keenanjohnson) to help me fund my projects and continue to do more awesome open-source work.
 
