@@ -14,7 +14,7 @@ Welcome! I'm [Keenan](https://bio.link/klj)! Pronouns: he/him/his
 - Built a [solar-powered house](https://github.com/keenanjohnson/house-pet) that teaches about energy usage through a playful, multi-sensory experience.
 - [Built an Alexa, voice-controlled, Lego robot](https://github.com/keenanjohnson/Paige-Turner) that can turn and read the pages of books for the visually impaired.
 
-Please consider supporting me on [Ko-fi](https://ko-fi.com/W7W14VTU8) or [Github](https://github.com/sponsors/keenanjohnson) to help me fund my projects and continue to do more awesome open-source work.
+Please consider supporting me on [Github](https://github.com/sponsors/keenanjohnson) to help me fund my projects and continue to do more awesome open-source work.
 
 <!--
 **keenanjohnson/keenanjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
