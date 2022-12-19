@@ -9,6 +9,7 @@ Welcome! I'm [Keenan](https://bio.link/klj)! Pronouns: he/him/his
 ### Past Work Highlights: 
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
 - Heavily involved in policy efforts related to Aerospace, Innovation, and Technology
+- Hired by the governemnt of New Zealand to advise New Zealand based companies wishing to enter the US market.
 - Mentors companies involved in climate change and aerospace through Techstars and CleanTech Open
 - An integral software engineer in the high-pressure mission control of [SpaceX](https://www.keenanjohnson.com/work#spacex)
 - Built a [solar-powered house](https://github.com/keenanjohnson/house-pet) that teaches about energy usage through a playful, multi-sensory experience.
