@@ -4,7 +4,7 @@ Welcome! I'm [Keenan](https://bio.link/klj)! Pronouns: he/him/his
 
 ### Current Projects
 - I'm building [Ribbit Network:](https://github.com/Ribbit-Network) The world's largest crowdsourced network of open-source, Greenhouse Gas Detection Sensors for climate.
-- I coach startup founders and consult with companies of all sizes on technical and organizational strategy paired with execution. [Reach out if you are interested in hiring me!](https://www.notion.so/keenanjohnson/Keenan-Johnson-Consulting-cb1d1dffa382416ab4ea15bf42f0b1f0)
+- I work with a select group of companies and founders as a consultant working on engineering, people, and process related challenges.  I work with companies and teams of all sizes (startup -> large publicly traded). Please reach out to me if you are interested in learning more or working together.. [Reach out if you are interested in hiring me!](https://www.keenanjohnson.com/consulting)
 
 ### Past Work Highlights: 
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
