@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Welcome! I'm [Keenan](https://bio.link/klj)! Pronouns: he/him/his
+Hey, I'm [Keenan](https://www.keenanjohnson.com/)! 
 
-### Current Projects
-- I'm building [Ribbit Network:](https://github.com/Ribbit-Network) The world's largest crowdsourced network of open-source, Greenhouse Gas Detection Sensors for climate.
-- I work with a select group of companies and founders as a consultant working on engineering, people, and process related challenges.  I work with companies and teams of all sizes (startup -> large publicly traded). Please reach out to me if you are interested in learning more or working together.. [Reach out if you are interested in hiring me!](https://www.keenanjohnson.com/consulting)
+I work with a select group of companies and founders as a consultant working on engineering, people, and process-related challenges. Work with me here.
+
+I have built some of the world’s most ambitious engineering projects and gained expertise in understanding people, teams, and technology to achieve the impossible for the good of all.
+
+I am also building the Ribbit Network 🐸 (a 501c3 non-profit) to empower anyone to join in the work on climate and provide informed data for climate action through the power of open-source hardware and software.
 
 ### Past Work Highlights: 
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
@@ -17,4 +19,13 @@ Welcome! I'm [Keenan](https://bio.link/klj)! Pronouns: he/him/his
 
 Please consider supporting me on [Github](https://github.com/sponsors/keenanjohnson) to help me fund my projects and continue to do more awesome open-source work.
 
-![](https://komarev.com/ghpvc/?username=keenanjohnson)
+### Partner with me
+
+Things I partner with teams for:
+* Technical Direction and Execution (engineering)
+* Prototype Development
+* Executive Coaching
+* Startup Mentorship / Interim Leadership
+* Workshops
+* Process Development
+* Engineering Technical Direction Review and Mentorship
