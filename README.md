@@ -2,11 +2,11 @@
 
 Hey, I'm [Keenan](https://www.keenanjohnson.com/)! 
 
-I work with a select group of companies and founders as a consultant working on engineering, people, and process-related challenges. Work with me here.
+I work with a select group of companies and founders as a consultant working on engineering, people, and process-related challenges. [Work with me here.](https://www.keenanjohnson.com/consulting)
 
 I have built some of the world’s most ambitious engineering projects and gained expertise in understanding people, teams, and technology to achieve the impossible for the good of all.
 
-I am also building the Ribbit Network 🐸 (a 501c3 non-profit) to empower anyone to join in the work on climate and provide informed data for climate action through the power of open-source hardware and software.
+I am also building the [Ribbit Network](https://github.com/Ribbit-Network) 🐸 (a 501c3 non-profit) to empower anyone to join in the work on climate and provide informed data for climate action through the power of open-source hardware and software.
 
 ### Past Work Highlights: 
 - Led an electric aircraft engineering team that delivered the world’s longest flying, fully electric UAV to prove it was possible to create useful zero-emissions aircraft
