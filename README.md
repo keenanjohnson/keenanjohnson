@@ -29,3 +29,12 @@ Things I partner with teams for:
 * Workshops
 * Process Development
 * Engineering Technical Direction Review and Mentorship
+
+### Recent Projects
+- Taught a  month weekly course to a company's internal software team on how to write and test software that can't fail for hardware
+- Wrote embedded firmware and did board bring up of a custom PCBa for a large energy storage battery management system.
+- Provided technical review for electronics/software of an aerospace company’s new satellite design
+- Created an IoT Fleet of both Linux (single board computers) and microcontroller-based sensors
+- Implemented a software update framework, simulation environment, and testing process for a climate-related robotics company
+- Mentored a few junior technical members in a company on a weekly basis since the company did not have a senior engineer to help them
+- Set up engineering team processes and meetings for small engineering startup just getting up and running
