@@ -8,9 +8,5 @@ I am building a software development studio that builds software for hardware. C
 
 I am also building the [Ribbit Network](https://github.com/Ribbit-Network) 🐸 (a 501c3 non-profit) to empower anyone to join in the work on climate and provide informed data for climate action through the power of open-source hardware and software.
 
-📈 Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=keenanjohnson&show_icons=true&include_all_commits=true&theme=transparent" alt="Keenan's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keenanjohnson&layout=compact&theme=transparent" alt="Top languages" height="165">
-</p>
+[![Keenan's GitHub stats](https://github-stats-extended.vercel.app/api?username=keenanjohnson)](https://github.com/stats-organization/github-stats-extended)
