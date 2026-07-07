@@ -8,5 +8,4 @@ I am building a software development studio that builds software for hardware. C
 
 I am also building the [Ribbit Network](https://github.com/Ribbit-Network) 🐸 (a 501c3 non-profit) to empower anyone to join in the work on climate and provide informed data for climate action through the power of open-source hardware and software.
 
-
 [![Keenan's GitHub stats](https://github-stats-extended.vercel.app/api?username=keenanjohnson)](https://github.com/stats-organization/github-stats-extended)
