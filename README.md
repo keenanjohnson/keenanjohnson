@@ -2,7 +2,7 @@
 
 Hey, I'm [Keenan](https://www.keenanjohnson.com/)! 
 
-I have built some of the world’s most ambitious engineering projects and gained expertise in understanding people, teams, and technology to achieve the impossible for the good of all.
+I have built some of the world’s most ambitious engineering projects and gained expertise in understanding people, teams, and technology to try and build things that are useful.
 
 I am building a software development studio that builds software for hardware. Check out our products, including [Souffle](https://www.souffle.today/) and [Pandoro](https://github.com/breadboardfoundry/pandoro).
 
