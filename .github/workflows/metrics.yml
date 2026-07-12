@@ -1,0 +1,128 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_SECRET }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          template: classic
+          base: header
+          config_timezone: America/Los_Angeles
+
+  repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          template: classic
+          base: repositories
+          config_timezone: America/Los_Angeles
+
+  acti_comm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: acti_comm.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          template: classic
+          base: activity, community
+          config_timezone: America/Los_Angeles
+
+  iso_calender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calender.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          template: classic
+          base: ""
+          config_timezone: America/Los_Angeles
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+  issue_pr_lang:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: issue_pr_lang.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          template: classic
+          base: ""
+          config_timezone: America/Los_Angeles
+          plugin_followup: yes
+          plugin_languages: yes
+
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-habits.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          template: classic
+          base: ""
+          config_timezone: America/Los_Angeles
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+
+  achievements:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: keenanjohnson
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: B      # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
+          plugin_achievements_display: compact  # Use compact display
+          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
