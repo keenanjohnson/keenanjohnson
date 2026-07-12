@@ -89,40 +89,7 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
 
-  habits:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-habits.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: keenanjohnson
-          template: classic
-          base: ""
-          config_timezone: America/Los_Angeles
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-
-  achievements:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: keenanjohnson
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
+# Note: the lowlighter/metrics "habits" and "achievements" plugins are broken
+# upstream (habits crashes on modern push-event payloads; achievements queries
+# the sunset Projects classic API) and the project is in maintenance mode,
+# so those cards are intentionally omitted.

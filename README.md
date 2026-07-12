@@ -26,10 +26,3 @@ I am also building the [Ribbit Network](https://github.com/Ribbit-Network) 🐸 
 <a href="https://github.com/keenanjohnson">
   <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
-
-<a href="https://github.com/keenanjohnson">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/keenanjohnson">
-  <img align="center" width="49%" src="./achievements.svg" />
-</a>
